@@ -8,7 +8,7 @@ layout: home
 
 The demos for this course are based on the demos from the accelerator kit [Demo Guide and Talking Points.docx](https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG).
 
-It is important that you familiarize yourself with all the demos prior to delivering this training. We suggest you work with the account team on deciding which demos would be most beneficial for the audience as you likely won't have the time to demonstrate them all. For several demos, you'll utilize sample documents and pre-created Teams meetings and emails.
+It is important that you familiarize yourself with all the demos prior to delivering this training. We suggest you work with the account team on deciding which demos would be most beneficial for the audience as you likely won't have the time to demonstrate them all. For several labs, you'll utilize sample documents and pre-created Teams meetings and emails.
 
 - Pre-download all sample documents [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Resourcefiles).
 - Setup Teams meetings and email threads by following the instructions [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG).
